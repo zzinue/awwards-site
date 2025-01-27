@@ -41,7 +41,7 @@ const Story = () => {
     });
   };
   return (
-    <section className="min-h-dvh s-creen bg-black text-blue-50">
+    <section id="about" className="min-h-dvh s-creen bg-black text-blue-50">
       <div className="flex size-full flex-col items-center py-10 pb-24">
         <p className="font-general text-small uppercase md:text-[10px]">
           The multiverse ip world
