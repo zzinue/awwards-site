@@ -41,7 +41,7 @@ const Story = () => {
     });
   };
   return (
-    <section id="about" className="min-h-dvh s-creen bg-black text-blue-50">
+    <section id="prologue" className="min-h-dvh s-creen bg-black text-blue-50">
       <div className="flex size-full flex-col items-center py-10 pb-24">
         <p className="font-general text-small uppercase md:text-[10px]">
           The multiverse ip world
@@ -70,7 +70,7 @@ const Story = () => {
             <RoundedCorners />
           </div>
         </div>
-        <div className="-mt-80 flex w-full justify-center md:-mt-64 me-44 md:justify-end">
+        <div className="-mt-80 flex w-full justify-center md:-mt-64 md:me-44 md:justify-end">
           <div className="flex h-full w-fit flex-col items-center md:items-start">
             <p className="mt-3 max-w-sm text-center font-circular-web text-violet-50 md:text-start">
               {" "}
